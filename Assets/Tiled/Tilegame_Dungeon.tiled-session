@@ -3,10 +3,23 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "Tilesheet.tsx",
     "expandedProjectPaths": [
+        "."
     ],
     "fileStates": {
+        "Dungeon_Level.tmx": {
+            "scale": 3,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": -97.16666666666666,
+                "y": 175.66666666666663
+            }
+        },
+        "Tilesheet.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        }
     },
     "last.imagePath": "C:/Users/48418188/Documents/PracTilemapGame/comp1151prac-tilemapgame-GusManley/Assets/Tiled/kenney_tiny-dungeon/Tilemap",
     "map.fixedSize": false,
@@ -14,9 +27,13 @@
     "map.tileHeight": 16,
     "map.tileWidth": 16,
     "openFiles": [
+        "Tilesheet.tsx",
+        "Dungeon_Level.tmx"
     ],
     "project": "Tilegame_Dungeon.tiled-project",
     "recentFiles": [
+        "Dungeon_Level.tmx",
+        "Tilesheet.tsx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {
