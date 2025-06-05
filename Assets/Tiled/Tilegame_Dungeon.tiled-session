@@ -12,13 +12,13 @@
             "scale": 3,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": -97.16666666666666,
-                "y": 175.66666666666663
+                "x": -57.666666666666686,
+                "y": 158
             }
         },
         "Tilesheet.tsx": {
             "scaleInDock": 3,
-            "scaleInEditor": 1
+            "scaleInEditor": 5.5
         }
     },
     "last.imagePath": "C:/Users/48418188/Documents/PracTilemapGame/comp1151prac-tilemapgame-GusManley/Assets/Tiled/kenney_tiny-dungeon/Tilemap",
